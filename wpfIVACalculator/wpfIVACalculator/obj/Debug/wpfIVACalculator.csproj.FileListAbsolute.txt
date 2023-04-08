@@ -1,0 +1,16 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\bin\Debug\wpfIVACalculator.exe.config
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\bin\Debug\wpfIVACalculator.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\bin\Debug\wpfIVACalculator.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\MainWindow.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\App.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator_MarkupCompile.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator_MarkupCompile.lref
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\MainWindow.baml
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator.g.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator.Properties.Resources.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator.csproj.GenerateResource.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfIVACalculator\wpfIVACalculator\obj\Debug\wpfIVACalculator.pdb

@@ -1,0 +1,15 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\bin\Debug\net7.0\AreaCalculator.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\bin\Debug\net7.0\AreaCalculator.deps.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\bin\Debug\net7.0\AreaCalculator.runtimeconfig.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\bin\Debug\net7.0\AreaCalculator.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\bin\Debug\net7.0\AreaCalculator.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\AreaCalculator.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\AreaCalculator.AssemblyInfo.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\AreaCalculator.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\refint\AreaCalculator.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\AreaCalculator.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\AreaCalculator.genruntimeconfig.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\AreaCalculator\obj\Debug\net7.0\ref\AreaCalculator.dll
