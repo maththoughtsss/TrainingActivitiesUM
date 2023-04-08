@@ -1,0 +1,16 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\bin\Debug\wfpEjercicios_Volumen.exe.config
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\bin\Debug\wfpEjercicios_Volumen.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\bin\Debug\wfpEjercicios_Volumen.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen.csproj.SuggestedBindingRedirects.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\MainWindow.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\App.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen_MarkupCompile.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen_MarkupCompile.lref
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\MainWindow.baml
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen.g.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen.Properties.Resources.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen.csproj.GenerateResource.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wfpEjercicios_Volumen\obj\Debug\wfpEjercicios_Volumen.pdb

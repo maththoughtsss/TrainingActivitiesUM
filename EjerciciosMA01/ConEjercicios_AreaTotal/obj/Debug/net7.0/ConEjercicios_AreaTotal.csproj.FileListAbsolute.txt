@@ -1,0 +1,15 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\ConEjercicios_AreaTotal.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\ConEjercicios_AreaTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\ConEjercicios_AreaTotal.AssemblyInfoInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\ConEjercicios_AreaTotal.AssemblyInfo.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\ConEjercicios_AreaTotal.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\bin\Debug\net7.0\ConEjercicios_AreaTotal.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\bin\Debug\net7.0\ConEjercicios_AreaTotal.deps.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\bin\Debug\net7.0\ConEjercicios_AreaTotal.runtimeconfig.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\bin\Debug\net7.0\ConEjercicios_AreaTotal.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\bin\Debug\net7.0\ConEjercicios_AreaTotal.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\ConEjercicios_AreaTotal.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\refint\ConEjercicios_AreaTotal.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\ConEjercicios_AreaTotal.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\ConEjercicios_AreaTotal.genruntimeconfig.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\ConEjercicios_AreaTotal\obj\Debug\net7.0\ref\ConEjercicios_AreaTotal.dll
