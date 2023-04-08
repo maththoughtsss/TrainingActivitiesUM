@@ -1,0 +1,16 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\bin\Debug\wpfTaxesCalculator.exe.config
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\bin\Debug\wpfTaxesCalculator.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\bin\Debug\wpfTaxesCalculator.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\App.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator_MarkupCompile.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator_MarkupCompile.lref
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\MainWindow.baml
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator.g.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator.Properties.Resources.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator.csproj.GenerateResource.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\wpfTaxesCalculator\wpfTaxesCalculator\obj\Debug\wpfTaxesCalculator.pdb
