@@ -1,0 +1,16 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\bin\Debug\wpfEjercicios_Cambio.exe.config
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\bin\Debug\wpfEjercicios_Cambio.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\bin\Debug\wpfEjercicios_Cambio.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio.csproj.SuggestedBindingRedirects.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\MainWindow.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\App.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio_MarkupCompile.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio_MarkupCompile.lref
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\MainWindow.baml
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio.g.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio.Properties.Resources.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio.csproj.GenerateResource.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\TrainingActivities\EjerciciosMA01\wpfEjercicios_Cambio\obj\Debug\wpfEjercicios_Cambio.pdb
